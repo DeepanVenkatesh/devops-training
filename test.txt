@@ -1,2 +1,4 @@
 Testing the Git Add, COmmit & Push
 Checking merge issue
+ldfkghkldfgjkldfgkl
+Merge check - In a diff cloned folder
