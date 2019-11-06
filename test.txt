@@ -1,2 +1,2 @@
 Testing the Git Add, COmmit & Push
-Merge check
+Merge check - In a diff cloned folder
